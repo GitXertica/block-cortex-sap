@@ -1,19 +1,19 @@
 constant: CONNECTION_NAME {
-  value: "cortex"
+  value: "grupo_a_aecorsft_cortex_looker"
   export: override_required
 }
 
 constant: GCP_PROJECT {
-  value: "GCP Project Name"
+  value: "co-grupoa-cld-01"
   export: override_required
 }
 
 constant: REPORTING_DATASET {
-  value: "Reporting Dataset Name"
+  value: "GRUPO_A_CORTEX_RPT"
   export: override_required
 }
 
 constant: CLIENT {
-  value: "Client ID"
+  value: "400"
   export: override_required
 }
